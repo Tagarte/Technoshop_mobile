@@ -1,0 +1,1 @@
+# Technoshop_mobile

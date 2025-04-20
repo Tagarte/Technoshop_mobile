@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project208.2</string>
+    <string name="intro_title">
+        Bienvenue sur <font color="#39c7a5">Technoshop</font>\n
+        une <font color="#39c7a5">escapade</font> vers les dernières technologies
+    </string>
+    <string name="intro_sub_title">Connectez-vous pour découvrir une large
+gamme de produits numériques de pointe,Vous n\'avez pas encore de compte? Inscriez-vous maintenant et profitez
+d\'une expérience d achat fluide et sécrisée </string>
+    <string name="letgos">"Commencez !"</string>
+    <string name="sign">"Vous avez déja un compte ?Connectez-vous"</string>
+</resources>
